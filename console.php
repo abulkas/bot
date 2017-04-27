@@ -33,6 +33,6 @@ if (!$isReply) {
         $sdk->log_message(json_encode($sdk->getNearestHotels(["31.745805", "35.593155"], "")));
         die;
     }
-    $sdk->sendMessage($sdk->answer($user_message), $user_id, $template = "text");
+    $sdk->sendMessage($sdk->answer($user_message), $user_id, $template = "button");
 }
 
