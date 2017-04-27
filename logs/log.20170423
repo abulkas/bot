@@ -1,0 +1,80 @@
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492930861452,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1492930858467,"message":{"mid":"mid.$cAASsCq638rRhyuJV41bmZ0O0ed1c","seq":540750,"text":"Hello"}}]}]}
+
+
+Sent at: 2017-04-23 07:01:02
+
+
+Response at: 2017-04-23 07:01:02
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492930865567,"messaging":[{"sender":{"id":"1397450383652824"},"recipient":{"id":"1166676266783090"},"timestamp":1492930865099,"message":{"is_echo":true,"app_id":1857787554437377,"mid":"mid.$cAASsCq638rRhyuJvy1bmZ0mhOzbC","seq":540751,"text":"Hi, Nice to meet you .. Please send me what do you want to find place or hotel?"}}]}]}
+
+
+Sent at: 2017-04-23 07:01:07
+
+
+Response at: 2017-04-23 07:01:07
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492930877774,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1492930877206,"message":{"mid":"mid.$cAASsCq638rRhyuKfFlbmZ1XKqkjq","seq":540754,"text":"what is my name?"}}]}]}
+
+
+Sent at: 2017-04-23 07:01:18
+
+
+Response at: 2017-04-23 07:01:18
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492930879847,"messaging":[{"sender":{"id":"1397450383652824"},"recipient":{"id":"1166676266783090"},"timestamp":1492930879526,"message":{"is_echo":true,"app_id":1857787554437377,"mid":"mid.$cAASsCq638rRhyuKoJlbmZ1fh6tsV","seq":540755,"text":"I didn't understand what you mean by what is my name??"}}]}]}
+
+
+Sent at: 2017-04-23 07:01:20
+
+
+Response at: 2017-04-23 07:01:20
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492931015194,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1492931014711,"message":{"mid":"mid.$cAASsCq638rRhyuS4N1bmZ9xpMTR0","seq":540758,"text":"hello"}}]}]}
+
+
+Sent at: 2017-04-23 07:03:36
+
+
+Response at: 2017-04-23 07:03:36
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492931021207,"messaging":[{"sender":{"id":"1397450383652824"},"recipient":{"id":"1166676266783090"},"timestamp":1492931020726,"message":{"is_echo":true,"app_id":1857787554437377,"mid":"mid.$cAASsCq638rRhyuTPtlbmZ-E0-w5M","seq":540759,"text":"What do you want to do next?","attachments":[{"title":"","url":null,"type":"template","payload":{"template_type":"button","buttons":[{"type":"postback","title":"Start Chatting","payload":"USER_DEFINED_PAYLOAD"}]}}]}}]}]}
+
+
+Sent at: 2017-04-23 07:03:41
+
+
+Response at: 2017-04-23 07:03:41
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492931027078,"messaging":[{"recipient":{"id":"1397450383652824"},"timestamp":1492931027078,"sender":{"id":"1166676266783090"},"postback":{"payload":"USER_DEFINED_PAYLOAD"}}]}]}
+
+
+Sent at: 2017-04-23 07:03:47
+
+
+Response at: 2017-04-23 07:03:47
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1492931029324,"messaging":[{"sender":{"id":"1397450383652824"},"recipient":{"id":"1166676266783090"},"timestamp":1492931028977,"message":{"is_echo":true,"app_id":1857787554437377,"mid":"mid.$cAASsCq638rRhyuTv8VbmZ-locEBI","seq":540764,"text":"What do you want to do next?","attachments":[{"title":"","url":null,"type":"template","payload":{"template_type":"button","buttons":[{"type":"postback","title":"Start Chatting","payload":"USER_DEFINED_PAYLOAD"}]}}]}}]}]}
+
+
+Sent at: 2017-04-23 07:03:50
+
+
+Response at: 2017-04-23 07:03:50
+
+

@@ -1,0 +1,45 @@
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1490525343593,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1490525343317,"message":{"mid":"mid.$cAASsCq638rRhO4EWVVbCjvFmNySS","seq":533561,"text":"\u0628"}}]}]}
+
+
+Sent at: 2017-03-26 10:49:02
+
+
+Response at: 2017-03-26 10:49:02
+
+
+Robot said: {"attachment":{"type":"template","payload":{"template_type":"button","text":"We received your message","buttons":[{"type":"web_url","url":"http:\/\/freeway-soft.com","title":"Visit Our Website"}]}}}
+<------End of Message------>
+
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1490558076765,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1490558074630,"message":{"mid":"mid.$cAASsCq638rRhPXSHBlbDC8_p0iPJ","seq":533576,"text":"Hello"}}]}]}
+
+
+Sent at: 2017-03-26 07:54:38
+
+
+Response at: 2017-03-26 07:54:38
+
+
+Robot said: null
+<------End of Message------>
+
+
+
+<------Start of Message------>
+{"object":"page","entry":[{"id":"1397450383652824","time":1490558106068,"messaging":[{"sender":{"id":"1166676266783090"},"recipient":{"id":"1397450383652824"},"timestamp":1490558105789,"message":{"mid":"mid.$cAASsCq638rRhPXUAvVbDC-4PkJsU","seq":533580,"text":"what is my name ?"}}]}]}
+
+
+Sent at: 2017-03-26 07:55:07
+
+
+Response at: 2017-03-26 07:55:07
+
+
+Robot said: null
+<------End of Message------>
+
+
+
